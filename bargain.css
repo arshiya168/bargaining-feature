@@ -1,0 +1,42 @@
+nav {
+    background-color: darkorchid;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.options ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#bargain {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    border: 2px solid black;
+}
+
+#product {
+    padding-top: 50px;
+}
+#product p {
+    color: gray;
+}
+
+#rating {
+    margin-right: 320px;
+    
+}
+
+.num {
+    background-color: white;
+    border: none;
+    border: 1px solid gray;
+}
+
+
